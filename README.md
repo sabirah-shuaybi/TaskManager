@@ -1,5 +1,6 @@
 # TaskManager
-#### Authors: Sabirah Shuaybi (me) and Tseki Lhamo
+#### @author: Sabirah Shuaybi
+#### @author: Tseki Lhamo
 ## Motivation:
 
 Research   has   shown   that   multitasking   reduces   one’s   efficiency   and performance   because   the   brain   can   only   focus   on   one   thing   at   a   time. When   an   individual   tries   to   do   two   things   at   once,   their   brain   lacks   the capacity   to   perform   both   tasks   successfully.
